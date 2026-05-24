@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Barbare Abuashvili
 
-<!--
-**Barbara2006/Barbara2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on:
+- Full-Stack Development
+- Data Analytics
+- Software Engineering
 
-Here are some ideas to get you started:
+## Technologies
+- Java
+- C++
+- SQL
+- Angular
+- TypeScript
+- PHP/Laravel
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building portfolio projects
+- Backend development
+- Data analytics dashboards
+- Algorithms & data structures
+
+## Contact
+- LinkedIn: your-linkedin
+- Email: your-email
