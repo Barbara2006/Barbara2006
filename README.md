@@ -21,5 +21,5 @@ Computer Science student focused on:
 - Algorithms & data structures
 
 ## Contact
-- LinkedIn: your-linkedin
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/barbare-abuashvili-514993415/
+- Email: abuashvilibarbara@gmail.com
